@@ -1,1 +1,1 @@
-# Article-Generator
+# AI_Article-Generator
